@@ -14,10 +14,4 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZudDVqcHowY2I3dmU3Zm11cDlnb3NoNTN0bWN4OTdrbHVlYzd4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lCoqCS1QwHxkADjL4l/giphy.webp" width="100" style="margin-left: 10px;">
 </div>
 
----
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB0YjI2OHgxbWx6OXBtM3Y4YXB3NmYzYzRsMjFuaTMzNDdvZjA4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aXXmzn3zhSMJkDj6mT/giphy.webp" width="40" align="left" style="display: inline-block; margin-right: -20px;">
-
-## **Socials**  
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&label=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nihilzin/](https://www.linkedin.com/in/urich-souza-136585299/))<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZoYzRmbHZhMXllNHV1ZDRobnNtNnZ5ZjdpNHY3cjRobzI3dXdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/06nwPm6AkTDwpVVbm2/giphy.gif" width="150" align="right">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZoYzRmbHZhMXllNHV1ZDRobnNtNnZ5ZjdpNHY3cjRobzI3dXdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/06nwPm6AkTDwpVVbm2/giphy.gif" width="150" align="right">
