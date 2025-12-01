@@ -10,15 +10,6 @@
 
 ---
 
-<table width="100%">
-      <p align="left">
-        <img src="https://img.shields.io/badge/JavaScript-1d1f21?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-        <img src="https://img.shields.io/badge/HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=e34c26" />
-        <img src="https://img.shields.io/badge/CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572b6" />
-        <img src="https://img.shields.io/badge/PHP-1d1f21?style=for-the-badge&logo=php&logoColor=777BB4" />
-        <img src="https://img.shields.io/badge/MySQL-1d1f21?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-        <img src="https://img.shields.io/badge/Shell_Script-1d1f21?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
-      </p>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZoYzRmbHZhMXllNHV1ZDRobnNtNnZ5ZjdpNHY3cjRobzI3dXdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/06nwPm6AkTDwpVVbm2/giphy.gif" align=right width="150" margin-bottom="10px">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZoYzRmbHZhMXllNHV1ZDRobnNtNnZ5ZjdpNHY3cjRobzI3dXdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/06nwPm6AkTDwpVVbm2/giphy.gif" align="right" width="150">
 
-</table>
+<img src="https://img.shields.io/badge/JavaScript-1d1f21?style=for-the-badge&logo=javascript&logoColor=f7df1e" /><img src="https://img.shields.io/badge/HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=e34c26" /><img src="https://img.shields.io/badge/CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572b6" /><img src="https://img.shields.io/badge/PHP-1d1f21?style=for-the-badge&logo=php&logoColor=777BB4" /><img src="https://img.shields.io/badge/MySQL-1d1f21?style=for-the-badge&logo=mysql&logoColor=4479A1" /><img src="https://img.shields.io/badge/Shell_Script-1d1f21?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
