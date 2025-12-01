@@ -1,5 +1,1 @@
-![snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-![Visitors](https://komarev.com/ghpvc/?username=nihilzin&color=lightgrey)
-![Commits](https://img.shields.io/badge/Commits-🔥_Active-darkblue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-Working_On_It-green?style=for-the-badge)
-![trophy](https://github-profile-trophy.vercel.app/?username=nihilzin&theme=onedark)
+
